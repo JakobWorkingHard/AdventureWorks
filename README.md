@@ -4,13 +4,13 @@ Detta projekt extraherar och analyserar försäljningsdata från AdventureWorks-
 ## 📄 För en fördjupad genomgång av projektets resultat och slutsatser, se filen: Analysis_Report
 
 ### 🛠️ Teknikstack
-### 🐘 SQL (Dataextraktion)
+🐘 SQL (Dataextraktion)
 
-### 🐍 Python & Pandas (Analys)
+🐍 Python & Pandas (Analys)
 
-### 📊 Seaborn & Matplotlib (Visualisering)
+📊 Seaborn & Matplotlib (Visualisering)
 
-### 🔗 SQLAlchemy (Databaskoppling)
+🔗 SQLAlchemy (Databaskoppling)
 
 ## 🚀 Kom igång med projektet
 Följ dessa steg för att köra analysen lokalt:
@@ -19,4 +19,4 @@ Följ dessa steg för att köra analysen lokalt:
 
 📦 Installera nödvändiga bibliotek via pip: pip install -r requirements.txt
 
-🖥️ Öppna och kör filen connection_docker.ipynb i VS Code eller Jupyter Lab för att generera analysen.
+🖥️ Öppna och kör filen Analysis_Report.ipynb i VS Code eller Jupyter Lab för att generera analysen.
