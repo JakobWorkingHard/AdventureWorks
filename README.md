@@ -19,4 +19,7 @@ Följ dessa steg för att köra analysen lokalt:
 
 📦 Installera nödvändiga bibliotek via pip: pip install -r requirements.txt
 
+💾 Ladda ner databasen: Ladda ner AdventureWorks2025.bak för att kunna köra analysen lokalt.
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms
+
 🖥️ Öppna och kör filen Analysis_Report.ipynb i VS Code eller Jupyter Lab för att generera analysen.
